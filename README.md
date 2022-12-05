@@ -8,15 +8,7 @@ https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-
 
 ### [🌐 Website](https://stackoverflow-clone-client.vercel.app)  |  [📹 Demo Video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
 
-### API Hosted On
-- __[stackoverflow-clone-api.onrender.com](https://stackoverflow-clone-api.onrender.com) (Primary)__
-- __[stackoverflow-clone-backend.herokuapp.com](https://stackoverflow-clone-backend.herokuapp.com)__
-
-As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
-
-This repo consists of the Frontend code of the project, the backend code is in __[Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)__
-
-## My Tech Stack (MERN)
+## My Technical Stack (MERN)
 
 #### Front-end
 
@@ -31,7 +23,7 @@ This repo consists of the Frontend code of the project, the backend code is in _
 
 ## Guidelines to setup
 
-There are two ways to setup the project: manually or using the Dockerfile. Read below for more details:
+There are two ways to setup the project: 
 
 ### Manual Setup
 
