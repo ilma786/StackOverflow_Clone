@@ -70,8 +70,6 @@ There are two ways to setup the project:
      ```
 
    - Run the client index `npm start`.
-   
-   __OPTIONAL (Recommended For Frontend Developers):__ Can just change the path [here](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/blob/53b64c37981c618802547cd17483525532de83f0/src/config/index.js#L6) to this `https://stackoverflow-clone-backend.herokuapp.com`
 
 ## DEMO
 
