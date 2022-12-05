@@ -19,57 +19,7 @@ https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-
 
 - For handling index requests: `Node.js with Express.js Framework`
 - As Database: `MySQL with Sequelize`
-- API tested using: `POSTMAN`
-
-## Guidelines to setup
-
-There are two ways to setup the project: 
-
-### Manual Setup
-
-1. Open your local CLI -
-
-   ```
-   mkdir Stackoverflow-Clone
-   cd Stackoverflow-Clone
-   ```
-
-2. Setup the backend code -
-   
-   __NOTE:__ For Frontend Developers, if they dont want to setup the Backend Code, they can skip the Step 2, and make sure they follow the optional step mentioned in Step 4
-
-   - Create a `.env` file and the format should be as given in `.env.example`.
-   - Clone the code & install the modules-
-
-     ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Backend.git
-     cd Stackoverflow-Clone-Backend
-
-     npm install
-     ```
-
-   - Open your MySQL Client -
-
-     ```
-     CREATE DATABASE stack_overflow;
-     ```
-     NOTE: Don't forget to keep the database name same in the `.env` and here.
-
-   - Run the index `npm start`.
-
-3. Open a new CLI terminal and goto the root `Stackoverflow-Clone` folder you created in the first step.
-4. Setup the Frontend code -
-
-   - Clone the code & install the modules-
-
-     ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Frontend.git
-     cd Stackoverflow-Clone-Frontend
-
-     npm install
-     ```
-
-   - Run the client index `npm start`.
+- API tested using: `POSTMAN'
 
 ## DEMO
 
